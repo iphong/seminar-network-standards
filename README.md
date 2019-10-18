@@ -16,3 +16,11 @@
 
 * Where to look for industry standards
 * Avoid unstrusted source of reference (Google, Wikipedia, etc...)
+
+
+### Demo
+
+* HTTP
+* WEBSOCKET
+* TELNET
+* HTTPS
